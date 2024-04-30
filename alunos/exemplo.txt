@@ -1,2 +1,5 @@
 nome=Rafael
 frase=Um jogador de tênis mesmo descalço ainda é um jogador de tênis
+
+nome=Carlos
+frase=De grão em grão, tanto bate até que fura
